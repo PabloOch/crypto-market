@@ -1,14 +1,10 @@
-![Logo](https://res.cloudinary.com/dicbnntfh/image/upload/v1671525723/spotify-clone/logo_tdxo2z.png)
-
-[Checkout the SonarQube Report for this Project](https://sonarqube.betterpw.live/dashboard?id=crypto-hunter-ansh-test)
-
-# Crypto Hunter
+# Crypto Marketer
 
 Welcome to the Crypto Hunter! This website allows you to easily track the real-time prices, market capitalizations, and rankings of various cryptocurrencies.
 
 ## Screenshots
 
-Screenshots can be found here [Crypto Hunter ScreenShots](https://drive.google.com/drive/folders/1IxjV7ABFZrWZeAX8e0eqgz5szZ--lbMb?usp=sharing)
+<img src="shot.png" alt="Review" title="Review Project">
 
 ## Features
 
@@ -30,60 +26,3 @@ Screenshots can be found here [Crypto Hunter ScreenShots](https://drive.google.c
 - [Material UI](https://mui.com/)
 - [Chart Js](https://www.chartjs.org/)
 - [Firebase](https://firebase.google.com/)
-
-## Run Locally
-
-Follow the steps below to run the app in your local environment
-
-### Method 1
-
-Docker Compose
-
-```bash
-docker compose up
-```
-
-### Method 2
-
-Clone the project
-
-```bash
-git clone https://github.com/anshkush92college/crypto-hunter-mern
-```
-
-Go to the project directory
-
-```bash
-cd crypto-hunter-mern
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Start the server
-
-```bash
-npm run start
-```
-
-## Acknowledgements
-
-- [Coin Gecko API](https://www.coingecko.com/en/api/documentation)
-- [Rest Countries API](https://restcountries.com/)
-
-## Authors
-
-- [Ansh Singh](https://github.com/anshkush92college)
-
-## License
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-## Roadmap
-
-- Add the forget password functionality
-- Add more integrations like News, Exchanges
-- Improve Performance
