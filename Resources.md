@@ -96,7 +96,6 @@
     - [Create objects with variable keys and variable values](<https://stackoverflow.com/questions/11508463/javascript-set-object-key-by-variable#:~:text=You%20need%20to%20make%20the,push(obj)%3B>)
   - Sorting the array of object based on the property of the object using custom comparator [Link](https://www.javascripttutorial.net/array/javascript-sort-an-array-of-objects/)
     - Error when sorting the array [Error](https://stackoverflow.com/questions/64957735/typeerror-cannot-assign-to-read-only-property-0-of-object-object-array-in)
-
 <hr>
 
 - Learn how to parse the HTML in the string to the text using the [HTML-React-Parser](https://www.npmjs.com/package/html-react-parser)
